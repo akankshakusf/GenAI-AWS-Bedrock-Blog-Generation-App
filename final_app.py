@@ -67,7 +67,7 @@ col1, col2 = st.columns([1, 6])
 with col1:
     st.image("bedrock.jpg", width=100)  # Adjust the width as needed
 with col2:
-    st.title("Blog Generator with AWS Bedrock")
+    st.title("MakeMyBlog with AWS Bedrock")
 ##-----------------------
 
 
