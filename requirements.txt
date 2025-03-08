@@ -1,0 +1,3 @@
+boto3 #invoke the FM model on bedrock
+requests #invoke the FM model on bedrock
+streamlit #invoke the FM model on bedrock
