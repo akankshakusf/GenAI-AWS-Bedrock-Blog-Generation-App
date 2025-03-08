@@ -1,13 +1,11 @@
 # 📜 AWS Bedrock-Powered Blog Generation App
 
-# App link : https://genai-aws-bedrock-blog-generation-app-h2vjcvhnyxtabenmna5jne.streamlit.app/
+* App link : https://genai-aws-bedrock-blog-generation-app-h2vjcvhnyxtabenmna5jne.streamlit.app/
 
 ## 📝 Overview
 This project leverages **AWS Bedrock**, **Amazon API Gateway**, **AWS Lambda**, and **Amazon S3** to create an AI-driven **blog generation system** powered by **Mistral 7B**. Users can generate blogs through a **Streamlit-based UI**, with the content processed via AWS services and stored in **Amazon S3** for retrieval.
 
-
-
-
+https://github.com/akankshakusf/GenAI-AWS-Bedrock-Blog-Generation-App/blob/master/ProjectWorkFlow.svg
 
 
 ## 🔄 Workflow
