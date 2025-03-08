@@ -7,7 +7,7 @@ This project leverages **AWS Bedrock**, **Amazon API Gateway**, **AWS Lambda**, 
 
 ## 🚀 Project Workflow
 
-<img src="[https://raw.githubusercontent.com/your-username/your-repo/main/ProjectWorkFlow.svg](https://github.com/akankshakusf/GenAI-AWS-Bedrock-Blog-Generation-App/blob/master/workflowdigram.svg)" width="100%" />
+<img src="https://github.com/akankshakusf/GenAI-AWS-Bedrock-Blog-Generation-App/blob/master/workflowdigram.svg" width="100%" />
 
 
 
