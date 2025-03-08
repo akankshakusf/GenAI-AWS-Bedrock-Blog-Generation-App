@@ -1,0 +1,1 @@
+# GenAI-AWS-Bedrock-Blog-Generation-App
