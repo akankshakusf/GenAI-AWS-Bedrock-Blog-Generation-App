@@ -7,7 +7,7 @@ This project leverages **AWS Bedrock**, **Amazon API Gateway**, **AWS Lambda**, 
 
 ## 🚀 Project Workflow
 
-<img src="ProjectWorkFlow.svg" width="100%" />
+<img src="projectworkflow.svg" width="100%" />
 
 
 ## 🔄 Workflow
